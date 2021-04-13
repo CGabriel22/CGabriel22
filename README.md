@@ -21,6 +21,7 @@ Instagram
 - Sass e Scss
 - PHP
 - MySql
+- WebPack
 - SEO
 
 
