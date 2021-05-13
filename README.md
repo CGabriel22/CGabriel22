@@ -1,5 +1,7 @@
 ## 👋 Hi, I'm Carlos Gabriel
 
+Ciência da computação | Universidade Federal do Ceará
+
 Apaixonado pelos códigos e principalmente pela sensação de poder ter um mundo inteiro dentro de uma tela onde eu posso ser um deus, um artista, um construtor ou o que eu quiser ser.
 
 O desafio de resolver problemas e desenvolver as melhores soluções possíveis é o que me faz levantar todos os dias.
