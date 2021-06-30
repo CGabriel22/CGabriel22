@@ -20,10 +20,8 @@ Instagram
 - BootsTrap
 - JavaScript
 - JQuery
-- Sass e Scss
+- Sass
 - PHP
 - MySql
 - WebPack
-- SEO
-
-
+- python
