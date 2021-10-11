@@ -7,8 +7,7 @@
 🌟 "Nada no mundo consegue tomar o lugar da persistência. O talento não consegue; nada é mais comum que homens fracassados com talento. A genialidade não consegue; gênios não recompensados é quase um clichê. A educação não consegue; o mundo é cheio de errantes educados. A persistência e determinação sozinhas são onipotentes." Calvin Coolidge.
 
 <div style="display: inline_block">
-    
-<img align="center" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-plain.svg">
+
 <img align="center" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain.svg">
 <img align="center" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg">
 <img align="center" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-plain.svg">
