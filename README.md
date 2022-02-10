@@ -35,7 +35,7 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CGabriel22&layout=compact&langs_count=7&theme=dark&bg_color=0D1117&text_color=ffffff"/>
 </div>
     
-<div style="display: inline_block">
+<div>
 
 <a href="https://www.instagram.com/cgabrieldev/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 
