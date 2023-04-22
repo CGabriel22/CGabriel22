@@ -1,6 +1,6 @@
 ## 👋 Hi, I'm Carlos Gabriel
 
-🎓 Ciência da computação | Universidade Federal do Ceará
+🎓 Engenharia de software | Universidade Federal do Ceará
 
 ☁ Quero sair do óbvio, desafiar a lógica do senso comum, impactar o mundo, linha após linha.
 
