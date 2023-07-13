@@ -24,8 +24,8 @@
 <br/>
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=CGabriel22&theme=github_dark)
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=CGabriel22&theme=dark)
-![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=CGabriel22&theme=dark)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=CGabriel22&theme=github_dark)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=CGabriel22&theme=github_dark)
  
 <div>
 
