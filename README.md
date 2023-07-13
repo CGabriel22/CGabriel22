@@ -23,9 +23,9 @@
 
 <br/>
 
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=CGabriel22&theme=github_dark)
 <div>
   <a href="https://github.com/CGabriel22">
-  ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=CGabriel22&theme=github_dark)
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CGabriel22&layout=compact&theme=dark&bg_color=0D1117&text_color=ffffff"/>
 </div>
  
