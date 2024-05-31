@@ -15,7 +15,6 @@
 <img align="center" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/android/android-original.svg">
 <img align="center" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/php/php-plain.svg">
 <img align="center" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-plain.svg">
-<img align="center" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/nestjs/nestjs-plain.svg">
 <img align="center" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/python/python-plain.svg">
 <img align="center" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg">
 
@@ -24,7 +23,7 @@
 <br/>
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=CGabriel22&theme=github_dark)
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=CGabriel22&theme=github_dark)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=cgabriel22&theme=github_dark)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=CGabriel22&theme=github_dark)
  
 <div>
