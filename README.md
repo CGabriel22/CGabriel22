@@ -2,8 +2,6 @@
 
 🎓 Engenharia de software | Universidade Federal do Ceará
 
-☁ Quero sair do óbvio, desafiar a lógica do senso comum, impactar o mundo, linha após linha.
-
 🌟 "Nada no mundo consegue tomar o lugar da persistência. O talento não consegue; nada é mais comum que homens fracassados com talento. A genialidade não consegue; gênios não recompensados é quase um clichê. A educação não consegue; o mundo é cheio de errantes educados. A persistência e determinação sozinhas são onipotentes." Calvin Coolidge.
 
 <div style="display: inline_block">
@@ -11,18 +9,18 @@
 <img align="center" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-plain.svg">
 <img align="center" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-plain.svg">
 <img align="center" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg">
-<img align="center" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/jest/jest-plain.svg">
 <img align="center" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/android/android-original.svg">
-<img align="center" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/php/php-plain.svg">
-<img align="center" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-plain.svg">
+<img align="center" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg">
+<img align="center" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg">
 <img align="center" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/python/python-plain.svg">
 <img align="center" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg">
+<img align="center" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg">
+<img align="center" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/go/go-original-wordmark.svg">
 
 </div>
 
 <br/>
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=CGabriel22&theme=github_dark)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=cgabriel22&theme=github_dark)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=CGabriel22&theme=github_dark)
  
