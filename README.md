@@ -2,6 +2,8 @@
 
 🎓 Engenharia de software | Universidade Federal do Ceará
 
+🚀 AI Engineer | Machine Learning | FullStack
+
 🌟 "Nada no mundo consegue tomar o lugar da persistência. O talento não consegue; nada é mais comum que homens fracassados com talento. A genialidade não consegue; gênios não recompensados é quase um clichê. A educação não consegue; o mundo é cheio de errantes educados. A persistência e determinação sozinhas são onipotentes." Calvin Coolidge.
 
 <div style="display: inline_block">
